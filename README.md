@@ -1,5 +1,11 @@
 ## Milestone 1
 
-Elasticsearch and BERT
+Basic setup of Elasticsearch
 
+## Milestone 2
 
+Queries in Elasticsearch
+
+## Milestone 3
+
+Using BERT for form semantic queries for Elasticsearch
